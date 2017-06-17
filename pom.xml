@@ -18,8 +18,8 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/aygulmardanova/examrepo.git</developerConnection>
         <url>https://github.com/aygulmardanova/examrepo</url>
+        <connection>scm:git:https://github.com/aygulmardanova/examrepo.git</connection>
     </scm>
 
 
