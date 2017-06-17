@@ -1,4 +1,4 @@
-package ru.kpfu.itis.fujitsu;
+package ru.kpfu.itis.fujitsu.exam;
 
 public class Hello {
 
