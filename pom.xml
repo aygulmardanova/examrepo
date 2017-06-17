@@ -17,8 +17,21 @@
 
     </dependencies>
 
+    <scm>
+        <developerConnection>scm:git:https://github.com/aygulmardanova/examrepo</developerConnection>
+    </scm>
+
 
     <build>
         <finalName>exam</finalName>
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.5.3</version>
+            </plugin>
+        </plugins>
+
     </build>
 </project>
